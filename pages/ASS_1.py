@@ -45,7 +45,7 @@ def set_bg_from_url(image_url):
         """,
         unsafe_allow_html=True
     )
-image_path = r"images\img1.png"
+image_path = "images/img1.png"
 set_bg_from_url(image_path)  
 # # ============================================
 # Const Variable
