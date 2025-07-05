@@ -64,7 +64,7 @@ def set_bg_from_url(image_url):
         """,
         unsafe_allow_html=True
     )
-image_path = r"images\img1.png"
+image_path = "images/img1.png"
 set_bg_from_url(image_path)  
 
 # st.title("Smart Text AI")
@@ -75,5 +75,5 @@ st.markdown("<h3 style='text-align: center; color: white; font-size: 30px;'>Summ
 st.markdown("<div class='main-button';  style='text-align: center;' >", unsafe_allow_html=True)
 # زر الاستمرار
 if st.button("Let's Go 🔥"):
-    st.switch_page("pages\ASS_1.py")
+    st.switch_page("pages/ASS_1.py")
 st.markdown("</div>", unsafe_allow_html=True)
