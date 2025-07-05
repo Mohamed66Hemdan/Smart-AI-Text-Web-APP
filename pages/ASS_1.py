@@ -45,7 +45,7 @@ def set_bg_from_url(image_url):
         """,
         unsafe_allow_html=True
     )
-image_path = r"C:\Users\Dell\Artificial Intelligence\Generative AI\Assignments\ASS_1\images\img1.png"
+image_path = r"images\img1.png"
 set_bg_from_url(image_path)  
 # # ============================================
 # Const Variable
