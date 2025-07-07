@@ -7,3 +7,18 @@ Smart AI Text Web App helps you analyze and understand text using smart AI tools
 ## Model Page
 ![screenshot](images/Picture2.jpg)
 
+## 💡 Available Use Cases
+
+1 - Text Classification 
+  Classifying input texts into predefined categories.
+
+2 - Text Generation
+  Generating new text based on user input.
+
+3 - Text Summarization
+  Summarizing long texts into concise key points.
+
+4 - Question Answering 
+  Automatically extracting answers from input text.
+
+
