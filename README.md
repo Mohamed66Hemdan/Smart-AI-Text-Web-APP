@@ -21,4 +21,11 @@ Smart AI Text Web App helps you analyze and understand text using smart AI tools
 4 - Question Answering 
   Automatically extracting answers from input text.
 
+## 🚀 Try it Online
+
+Click the button below to launch the app on Streamlit:
+
+[ https://smart-ai-text.streamlit.app/ ] 
+
+
 
